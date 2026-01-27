@@ -6,3 +6,4 @@
 |----|--------|------|------|
 | 01 | Reverse Linked List | Linked List | ✅ |
 | 01 | middle of Linked List | Linked List | ✅ |
+| 01 | Two Sum Problem | Leetcode | ✅ |
