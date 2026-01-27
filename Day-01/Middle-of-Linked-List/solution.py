@@ -5,10 +5,12 @@ class ListNode:
 
 
 class Solution:
-    def middleNode(self, head: ListNode) -> ListNode:
+    def middleNode(self, head):
         slow = head
         fast = head
+
         while fast is not None and fast.next is not None:
             slow = slow.next
             fast = fast.next.next
+
         return slow
