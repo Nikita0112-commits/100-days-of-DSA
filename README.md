@@ -5,3 +5,4 @@
 | Day | Problem | Topic | Code |
 |----|--------|------|------|
 | 01 | Reverse Linked List | Linked List | ✅ |
+| 01 | middle of Linked List | Linked List | ✅ |
